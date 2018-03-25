@@ -1,0 +1,14 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fightingm/code.git",
+  "author": "fightingm <417300459@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "deply": "gh-pages -d ./docs"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
+  }
+}
