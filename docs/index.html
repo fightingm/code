@@ -7,6 +7,9 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
+
+
 </head>
 <body>
   <div id="app"></div>
@@ -20,7 +23,19 @@
       // coverpage: true
     }
   </script>
-  <script src="//unpkg.com/docsify/lib/plugins/disqus.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: '06d63d4595d2b47b6046',
+      clientSecret: '90b05c3912103c4d3eb1cc590d92395961612f7c',
+      repo: 'https://github.com/fightingm/code',
+      owner: 'fightingm',
+      admin: ['fightingm'],
+      // facebook-like distraction free mode
+      distractionFreeMode: false
+    })
+  </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
