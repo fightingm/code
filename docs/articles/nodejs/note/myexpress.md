@@ -102,6 +102,6 @@
         });
     }
 
-[完整代码](https://github.com/fightingm/node_note/tree/master/%E5%B0%81%E8%A3%85%E8%B7%AF%E7%94%B1)
+[完整代码](https://github.com/fightingm/node_note/tree/master/%E5%B0%81%E8%A3%85%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84express)
 
 完。
