@@ -8,3 +8,5 @@
         * [fs练手](articles/nodejs/note/fsdemo)
         * [封装一个简单的express](articles/nodejs/note/myexpress)
         * [node操作mongodb](articles/nodejs/note/node-mongo)
+* js
+    * [函数节流与函数消抖](articles/js/debounce.md)
