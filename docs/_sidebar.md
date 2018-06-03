@@ -10,3 +10,5 @@
         * [node操作mongodb](articles/nodejs/note/node-mongo)
 * js
     * [函数节流与函数消抖](articles/js/debounce.md)
+* vue
+    * [为什么不使用key作为index](articles/vue/v-for.md)
