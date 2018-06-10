@@ -12,3 +12,4 @@
     * [函数节流与函数消抖](articles/js/debounce.md)
 * vue
     * [为什么不使用key作为index](articles/vue/v-for.md)
+    * [vue-awesome-form的实现及踩坑记录](articles/vue/vue-awesome-form.md)
