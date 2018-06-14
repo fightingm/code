@@ -290,3 +290,5 @@ renderOverlays(overlays) {
 这里使用threejs的Frustum对象(视锥体)，设置视锥体沿着相机法线的方向，然后判断与overlay空间坐标的包围球是否相交，如果相交，则在当前相机视角内。
 
 最后，别忘了在我们的render函数中调用updatePosition方法。
+
+这篇文章就介绍到这里，下篇文章将介绍碎片图的按需加载实现过程。
