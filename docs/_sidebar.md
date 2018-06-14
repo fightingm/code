@@ -13,3 +13,5 @@
 * vue
     * [为什么不使用key作为index](articles/vue/v-for.md)
     * [vue-awesome-form的实现及踩坑记录](articles/vue/vue-awesome-form.md)
+* threejs
+    * [使用vr-panorama生成一个vr全景漫游系统(一)](articles/threejs/vrpano1.md)
