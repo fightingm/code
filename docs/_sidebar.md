@@ -15,3 +15,4 @@
     * [vue-awesome-form的实现及踩坑记录](articles/vue/vue-awesome-form.md)
 * threejs
     * [使用vr-panorama生成一个vr全景漫游系统(一)](articles/threejs/vrpano1.md)
+    * [使用vr-panorama生成一个vr全景漫游系统(二)](articles/threejs/vrpano2.md)
